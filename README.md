@@ -4,6 +4,11 @@ Este projeto foi desenvolvido como desafio prático utilizando RPA (Robotic Proc
 
 O objetivo é automatizar a análise de clientes investidores, identificar oportunidades compatíveis com seu perfil de risco e enviar recomendações personalizadas por e-mail.
 
+# N8N AUTOMAÇÃO:
+
+<img width="1696" height="791" alt="image" src="https://github.com/user-attachments/assets/b9a595a5-f454-442f-a6a4-04969dea526e" />
+
+
 ## 🚀 Tecnologias Utilizadas
 Python
 Requests
