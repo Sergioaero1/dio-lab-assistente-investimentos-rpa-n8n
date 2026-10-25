@@ -165,8 +165,19 @@ Conecte o Agente de IA do N8N a um modelo como Gemini ou GPT para:
 - [BeautifulSoup: Web Scraping com Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 - [GitHub Pages: Guia Rápido](https://pages.github.com/)
 
+- ...
+
+- # BONUS
+- ## SOLUCIONANDO PROBLEMAS
+
+- ## resolvI os dois maiores obstáculos do projeto:
+
+ ✅ Web scraping funcionando
+ ✅ n8n rodando no Docker
+ ✅ ngrok expondo o n8n para a internet
+ ✅ Google Colab enviando dados para o webhook
+ ✅ Comunicação Colab → n8n funcionando
+
 ---
 
-**Bons estudos e mãos à obra** 🚀
 
-Se tiver dúvidas, lembre-se: a melhor forma de aprender é experimentando. Erre, corrija e celebre cada pequena vitória no caminho.
