@@ -1,6 +1,6 @@
 # Assistente Inteligente de Investimentos com RPA, n8n e Gemini
 ## 📌 Sobre o Projeto
-Este projeto foi desenvolvido como desafio prático utilizando RPA (Robotic Process Automation), Python, n8n e Inteligência Artificial Generativa (Google Gemini).
+Este projeto foi desenvolvido como desafio prático utilizando RPA (Robotic Process Automation), Javascript, n8n e Inteligência Artificial Generativa (Google Gemini).
 
 O objetivo é automatizar a análise de clientes investidores, identificar oportunidades compatíveis com seu perfil de risco e enviar recomendações personalizadas por e-mail.
 
