@@ -10,20 +10,20 @@ O objetivo é automatizar a análise de clientes investidores, identificar oport
 
 
 ## 🚀 Tecnologias Utilizadas
-Python
-Requests
-BeautifulSoup
-Google Colab
-GitHub
-GitHub Pages
-CSV
-n8n
-Docker
-Ngrok
-Google Gemini AI
-Gmail API
+Javascript
+Requests, 
+BeautifulSoup, 
+Google Colab, 
+GitHub, 
+GitHub Pages, 
+CSV, 
+n8n, 
+Docker, 
+Ngrok, 
+Google Gemini AI, 
+Gmail API, 
 ## 🏗️ Arquitetura da Solução
-Python (RPA)
+Javascript (RPA)
       ↓
 Webhook n8n
       ↓
