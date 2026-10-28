@@ -1,6 +1,6 @@
 # Assistente Inteligente de Investimentos com RPA, n8n e Gemini
 ## 📌 Sobre o Projeto
-Este projeto foi desenvolvido como desafio prático utilizando RPA (Robotic Process Automation), Javascript, n8n e Inteligência Artificial Generativa (Google Gemini).
+Este projeto foi desenvolvido como desafio prático utilizando RPA (Robotic Process Automation), Python, n8n e Inteligência Artificial Generativa (Google Gemini).
 
 O objetivo é automatizar a análise de clientes investidores, identificar oportunidades compatíveis com seu perfil de risco e enviar recomendações personalizadas por e-mail.
 
@@ -10,7 +10,7 @@ O objetivo é automatizar a análise de clientes investidores, identificar oport
 
 
 ## 🚀 Tecnologias Utilizadas
-Javascript
+Python
 Requests, 
 BeautifulSoup, 
 Google Colab, 
@@ -23,7 +23,7 @@ Ngrok,
 Google Gemini AI, 
 Gmail API, 
 ## 🏗️ Arquitetura da Solução
-Javascript (RPA)
+Python (RPA)
       ↓
 Webhook n8n
       ↓
@@ -46,7 +46,7 @@ Gmail
 Resposta do Webhook
 ## 📋 Fluxo Completo da Automação
 ### 1. Coleta dos Clientes
-Foi desenvolvido um script Javascript responsável por:
+Foi desenvolvido um script Python responsável por:
 
 acessar uma página HTML hospedada no GitHub Pages;
 realizar Web Scraping;
@@ -66,7 +66,7 @@ Exemplo de cliente
 }
 
 ### 2. Recebimento dos Dados no n8n
-O Webhook recebe os clientes enviados pelo script Javascript.
+O Webhook recebe os clientes enviados pelo script Python.
 
 ### 3. Consulta da Base de Investimentos
 A automação realiza um HTTP Request para consumir um arquivo CSV hospedado no GitHub.
