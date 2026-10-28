@@ -46,7 +46,7 @@ Gmail
 Resposta do Webhook
 ## 📋 Fluxo Completo da Automação
 ### 1. Coleta dos Clientes
-Foi desenvolvido um script Python responsável por:
+Foi desenvolvido um script Javascript responsável por:
 
 acessar uma página HTML hospedada no GitHub Pages;
 realizar Web Scraping;
@@ -66,7 +66,7 @@ Exemplo de cliente
 }
 
 ### 2. Recebimento dos Dados no n8n
-O Webhook recebe os clientes enviados pelo script Python.
+O Webhook recebe os clientes enviados pelo script Javascript.
 
 ### 3. Consulta da Base de Investimentos
 A automação realiza um HTTP Request para consumir um arquivo CSV hospedado no GitHub.
